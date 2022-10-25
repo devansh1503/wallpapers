@@ -1,0 +1,352 @@
+{
+  "pictures": [
+    {
+      "id": 1,
+      "title": "Sunrise",
+      "url": "https://wallpaperaccess.com/full/428690.jpg",
+      "keywords": [
+        "sunrise",
+        "sun",
+        "nature",
+        "natural"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Car",
+      "url": "https://www.supercars.net/blog/wp-content/uploads/2020/09/wallpaperflare.com_wallpaper-1-1.jpg",
+      "keywords": [
+        "cars",
+        "car",
+        "sports",
+        "speed"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Black Panther",
+      "url": "https://images7.alphacoders.com/102/1026497.jpg",
+      "keywords": [
+        "marvel",
+        "superhero",
+        "dc",
+        "movies"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Abstract",
+      "url": "https://img.freepik.com/premium-vector/multicolored-abstract-background_23-2148463672.jpg?w=2000",
+      "keywords": [
+        "abstract",
+        "beautiful",
+        "visuals",
+        "graphics"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Minimalist",
+      "url": "https://images3.alphacoders.com/954/954241.jpg",
+      "keywords": [
+        "abstract",
+        "beautiful",
+        "visuals",
+        "graphics",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "House",
+      "url": "https://wallpaperaccess.com/full/259715.jpg",
+      "keywords": [
+        "house",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Night",
+      "url": "https://wallpaperaccess.com/full/1217207.jpg",
+      "keywords": [
+        "night",
+        "moon",
+        "stars",
+        "nature"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Street lights",
+      "url": "https://wallpapercave.com/wp/wp3626994.jpg",
+      "keywords": [
+        "neon",
+        "street",
+        "streetlights",
+        "lights",
+        "cyberupunk"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Neon Street",
+      "url": "https://wallpapercave.com/wp/wp4849531.jpg",
+      "keywords": [
+        "neon",
+        "street",
+        "streetlights",
+        "lights",
+        "cyberupunk"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Space sky",
+      "url": "https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-preview.jpg",
+      "keywords": [
+        "space",
+        "sky",
+        "stars",
+        "planets",
+        "neon"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Earth sunlight",
+      "url": "https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274__340.jpg",
+      "keywords": [
+        "planet",
+        "space",
+        "earth",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Abstract lines",
+      "url": "https://i.pinimg.com/originals/05/fc/64/05fc64de027859a9fb90bc9b270810a9.jpg",
+      "keywords": [
+        "abstract",
+        "lines",
+        "beautiful",
+        "pattern",
+        "design"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Triangles",
+      "url": "https://wallpaperaccess.com/full/48071.jpg",
+      "keywords": [
+        "abstract",
+        "beautiful",
+        "triangle",
+        "lines",
+        "shapes",
+        "patterns",
+        "design"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Snow Lake",
+      "url": "https://www.wallpaperuse.com/wallp/83-834459_m.jpg",
+      "keywords": [
+        "snow",
+        "lake",
+        "mountains",
+        "winter",
+        "landscape",
+        "nature",
+        "cold"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Aurora mountains",
+      "url": "https://cdn.wallpapersafari.com/47/85/ZRTrEf.jpg",
+      "keywords": [
+        "aurora",
+        "mountains",
+        "snow",
+        "winter",
+        "sky",
+        "landscape",
+        "nature",
+        "cold"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Tech nerd",
+      "url": "https://i.pinimg.com/originals/ab/65/25/ab6525b299477019027ddbd33a90c4b7.jpg",
+      "keywords": [
+        "tech",
+        "nerd",
+        "technology",
+        "micro",
+        "neon",
+        "hitech",
+        "science"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Galaxy",
+      "url": "https://wallpapers.com/images/hd/abstract-milky-way-in-outer-space-lhp43ro1vsqc28kz.jpg",
+      "keywords": [
+        "space",
+        "galaxy",
+        "planets",
+        "universe"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Black adam",
+      "url": "https://images.alphacoders.com/105/1052332.jpg",
+      "keywords": [
+        "movies",
+        "superhero",
+        "dc",
+        "marvel",
+        "blackadam",
+        "movie"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Spiderman",
+      "url": "https://wallpapers.com/images/featured/into-the-spider-verse-c8b226pogyrcm1ba.jpg",
+      "keywords": [
+        "spiderman",
+        "movies",
+        "marvel",
+        "dc",
+        "movie",
+        "superhero"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Buildings",
+      "url": "https://wallpaperaccess.com/full/153056.jpg",
+      "keywords": [
+        "city",
+        "buildings",
+        "beautiful",
+        "morning"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Batman",
+      "url": "https://www.xtrafondos.com/wallpapers/the-batman-con-fondo-rojo-6426.jpg",
+      "keywords": [
+        "batman",
+        "superhero",
+        "dark",
+        "dc",
+        "marvel",
+        "red",
+        "movies",
+        "movie"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Tails of feather",
+      "url": "https://images.pexels.com/photos/5186869/pexels-photo-5186869.jpeg?cs=srgb&dl=pexels-fiona-art-5186869.jpg&fm=jpg",
+      "keywords": [
+        "abstract",
+        "colours",
+        "beautiful",
+        "vibrant",
+        "patterns",
+        "design",
+        "pink",
+        "aesthetic"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Twist Abstract",
+      "url": "https://www.pixel4k.com/wp-content/uploads/2020/08/forms-abstract_1596924599-2048x1152.jpg.webp",
+      "keywords": [
+        "abstract",
+        "graphics",
+        "visuals",
+        "colorful",
+        "pattern",
+        "design",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "minimal",
+      "url": "https://c4.wallpaperflare.com/wallpaper/591/300/904/mountains-minimalism-forest-firewatch-wallpaper-preview.jpg",
+      "keywords": [
+        "minimalist",
+        "scenery",
+        "hills",
+        "orange",
+        "forest",
+        "animated"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Boxes",
+      "url": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbCUyMHdhbGxwYXBlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "keywords": [
+        "box",
+        "minimalist",
+        "abstract",
+        "patterns",
+        "design",
+        "black"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Space",
+      "url": "https://www.whatspaper.com/wp-content/uploads/2022/06/desktop-space-wallpaper-whatspaper-1.jpg",
+      "keywords": [
+        "space",
+        "galaxy",
+        "stars",
+        "planets",
+        "colors"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "City Of Future",
+      "url": "https://wallpaperaccess.com/full/621186.jpg",
+      "keywords": [
+        "future",
+        "neon",
+        "tech",
+        "hitech",
+        "city",
+        "animated"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Gatewayss",
+      "url": "https://img.freepik.com/free-photo/rendering-abstract-futuristic-background-with-glowing-neon-blue-orange-lights_181624-19807.jpg?w=2000",
+      "keywords": [
+        "tech",
+        "technology",
+        "hightech",
+        "visuals",
+        "graphics",
+        "orange"
+      ]
+    }
+  ]
+}
