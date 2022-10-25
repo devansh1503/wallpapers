@@ -15,7 +15,7 @@ body {
   font-size: 20px;
 }
 .linktext:hover{
-  color: crimson;
+  color: rgb(20, 220, 207);
 }
 
 .card {
