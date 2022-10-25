@@ -6,7 +6,7 @@ function Upload() {
   const [url, seturl] = useState("")
   const title = useRef()
   const Keywords = useRef()
-  const dburl = "http://localhost:3333/pictures"
+  const dburl = "https://my-json-server.typicode.com/devansh1503/database/pictures"
   const [len, setLen] = useState(0)
   useEffect(() => {
     async function fetchData() {

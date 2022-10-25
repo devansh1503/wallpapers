@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
 function Home() {
-    const url = "http://localhost:3333/pictures"
+    const url = "https://my-json-server.typicode.com/devansh1503/database/pictures"
     const [data,setData] = useState([])
     useEffect(()=>{
         async function fetchData(){

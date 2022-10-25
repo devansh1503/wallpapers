@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom'
 
 function Dowload() {
     const url = localStorage.getItem('currUrl')
-    const dburl = "http://localhost:3333/pictures"
+    const dburl = "https://my-json-server.typicode.com/devansh1503/database/pictures"
     const title = localStorage.getItem('currTitle')
     const [rec, setRec] = useState([])
     const history = useNavigate()

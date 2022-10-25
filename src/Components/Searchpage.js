@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom'
 function Searchpage() {
     const key = localStorage.getItem('keyitem').toLowerCase()
     const [data, setData] = useState([])
-    const url = "http://localhost:3333/pictures"
+    const url = "https://my-json-server.typicode.com/devansh1503/database/pictures"
     const history = useNavigate()
     useEffect(() => {
         async function fetchData() {
